@@ -7,9 +7,19 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "KeyBoard.h"
 
-@interface ViewController : UIViewController
-
+@interface ViewController : UIViewController<UITextFieldDelegate>
+{
+    IBOutlet UIView *contentView_OF_ScrollView;
+    IBOutlet UIScrollView *keyboardScrollView;
+    
+    
+    
+    
+    KeyBoard *keyBoard_instence;
+}
+@property(strong,nonatomic)IBOutlet UITextField *TestTextField;
 
 @end
 

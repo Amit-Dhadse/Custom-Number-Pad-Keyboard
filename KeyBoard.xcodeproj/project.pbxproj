@@ -7,15 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C6443101E07AC02009A0A80 /* gradient2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C64430E1E07AC02009A0A80 /* gradient2.png */; };
+		9C6443171E07FABF009A0A80 /* Launchscreen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C6443151E07FABF009A0A80 /* Launchscreen.jpg */; };
+		9C6443181E07FABF009A0A80 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C6443161E07FABF009A0A80 /* background.jpg */; };
+		9C8D97191E04F1AC00986119 /* KeyBoard.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8D97181E04F1AC00986119 /* KeyBoard.m */; };
+		9C8D971B1E04F1FD00986119 /* KeyBoard.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9C8D971A1E04F1FD00986119 /* KeyBoard.xib */; };
 		9CD209B81DFFEE2100C944D8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CD209B71DFFEE2100C944D8 /* main.m */; };
 		9CD209BB1DFFEE2100C944D8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CD209BA1DFFEE2100C944D8 /* AppDelegate.m */; };
 		9CD209BE1DFFEE2100C944D8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CD209BD1DFFEE2100C944D8 /* ViewController.m */; };
 		9CD209C11DFFEE2100C944D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CD209BF1DFFEE2100C944D8 /* Main.storyboard */; };
 		9CD209C31DFFEE2100C944D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CD209C21DFFEE2100C944D8 /* Assets.xcassets */; };
 		9CD209C61DFFEE2100C944D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CD209C41DFFEE2100C944D8 /* LaunchScreen.storyboard */; };
+		9CD209D31E0020A700C944D8 /* cancel.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CD209CD1E0020A700C944D8 /* cancel.png */; };
+		9CD209D41E0020A700C944D8 /* cancel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CD209CE1E0020A700C944D8 /* cancel@2x.png */; };
+		9CD209D51E0020A700C944D8 /* cancel@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CD209CF1E0020A700C944D8 /* cancel@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C64430E1E07AC02009A0A80 /* gradient2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gradient2.png; sourceTree = "<group>"; };
+		9C6443151E07FABF009A0A80 /* Launchscreen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Launchscreen.jpg; sourceTree = "<group>"; };
+		9C6443161E07FABF009A0A80 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		9C8D97171E04F1AC00986119 /* KeyBoard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeyBoard.h; sourceTree = "<group>"; };
+		9C8D97181E04F1AC00986119 /* KeyBoard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyBoard.m; sourceTree = "<group>"; };
+		9C8D971A1E04F1FD00986119 /* KeyBoard.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = KeyBoard.xib; sourceTree = "<group>"; };
 		9CD209B31DFFEE2100C944D8 /* KeyBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KeyBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CD209B71DFFEE2100C944D8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9CD209B91DFFEE2100C944D8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +40,9 @@
 		9CD209C21DFFEE2100C944D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9CD209C51DFFEE2100C944D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9CD209C71DFFEE2100C944D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CD209CD1E0020A700C944D8 /* cancel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cancel.png; sourceTree = "<group>"; };
+		9CD209CE1E0020A700C944D8 /* cancel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cancel@2x.png"; sourceTree = "<group>"; };
+		9CD209CF1E0020A700C944D8 /* cancel@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cancel@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +56,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9C6443131E07B217009A0A80 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9C6443151E07FABF009A0A80 /* Launchscreen.jpg */,
+				9C6443161E07FABF009A0A80 /* background.jpg */,
+				9C64430E1E07AC02009A0A80 /* gradient2.png */,
+				9CD209CD1E0020A700C944D8 /* cancel.png */,
+				9CD209CE1E0020A700C944D8 /* cancel@2x.png */,
+				9CD209CF1E0020A700C944D8 /* cancel@3x.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		9C6443141E07B22C009A0A80 /* userDefine */ = {
+			isa = PBXGroup;
+			children = (
+				9C8D97171E04F1AC00986119 /* KeyBoard.h */,
+				9C8D97181E04F1AC00986119 /* KeyBoard.m */,
+				9C8D971A1E04F1FD00986119 /* KeyBoard.xib */,
+			);
+			name = userDefine;
+			sourceTree = "<group>";
+		};
 		9CD209AA1DFFEE2100C944D8 = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +98,8 @@
 		9CD209B51DFFEE2100C944D8 /* KeyBoard */ = {
 			isa = PBXGroup;
 			children = (
+				9C6443141E07B22C009A0A80 /* userDefine */,
+				9C6443131E07B217009A0A80 /* images */,
 				9CD209B91DFFEE2100C944D8 /* AppDelegate.h */,
 				9CD209BA1DFFEE2100C944D8 /* AppDelegate.m */,
 				9CD209BC1DFFEE2100C944D8 /* ViewController.h */,
@@ -111,7 +153,7 @@
 					9CD209B21DFFEE2100C944D8 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = BTT36DS6LY;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -138,9 +180,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CD209D31E0020A700C944D8 /* cancel.png in Resources */,
 				9CD209C61DFFEE2100C944D8 /* LaunchScreen.storyboard in Resources */,
 				9CD209C31DFFEE2100C944D8 /* Assets.xcassets in Resources */,
+				9CD209D41E0020A700C944D8 /* cancel@2x.png in Resources */,
+				9C6443101E07AC02009A0A80 /* gradient2.png in Resources */,
+				9C8D971B1E04F1FD00986119 /* KeyBoard.xib in Resources */,
+				9CD209D51E0020A700C944D8 /* cancel@3x.png in Resources */,
 				9CD209C11DFFEE2100C944D8 /* Main.storyboard in Resources */,
+				9C6443181E07FABF009A0A80 /* background.jpg in Resources */,
+				9C6443171E07FABF009A0A80 /* Launchscreen.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,6 +202,7 @@
 			files = (
 				9CD209BE1DFFEE2100C944D8 /* ViewController.m in Sources */,
 				9CD209BB1DFFEE2100C944D8 /* AppDelegate.m in Sources */,
+				9C8D97191E04F1AC00986119 /* KeyBoard.m in Sources */,
 				9CD209B81DFFEE2100C944D8 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -200,9 +250,11 @@
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: ASHOK KUMAR (H3EFT4VQ62)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ASHOK KUMAR (H3EFT4VQ62)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = BTT36DS6LY;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -222,6 +274,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "e5071323-31da-4a74-b7a6-1fa041695e9a";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -247,9 +300,11 @@
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: ASHOK KUMAR (H3EFT4VQ62)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ASHOK KUMAR (H3EFT4VQ62)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = BTT36DS6LY;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -262,6 +317,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "e5071323-31da-4a74-b7a6-1fa041695e9a";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -271,11 +327,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: ASHOK KUMAR (H3EFT4VQ62)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ASHOK KUMAR (H3EFT4VQ62)";
 				DEVELOPMENT_TEAM = BTT36DS6LY;
 				INFOPLIST_FILE = KeyBoard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "IDBI-Intech.KeyBoard";
+				PRODUCT_BUNDLE_IDENTIFIER = com.idbi.AppStore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "e5071323-31da-4a74-b7a6-1fa041695e9a";
+				PROVISIONING_PROFILE_SPECIFIER = IDBI_AppStore_Developement;
 			};
 			name = Debug;
 		};
@@ -283,11 +343,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: ASHOK KUMAR (H3EFT4VQ62)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ASHOK KUMAR (H3EFT4VQ62)";
 				DEVELOPMENT_TEAM = BTT36DS6LY;
 				INFOPLIST_FILE = KeyBoard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "IDBI-Intech.KeyBoard";
+				PRODUCT_BUNDLE_IDENTIFIER = com.idbi.AppStore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "e5071323-31da-4a74-b7a6-1fa041695e9a";
+				PROVISIONING_PROFILE_SPECIFIER = IDBI_AppStore_Developement;
 			};
 			name = Release;
 		};
@@ -310,6 +374,7 @@
 				9CD209CC1DFFEE2100C944D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
